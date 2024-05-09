@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @emma3617
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning C#
 
 
 <!---
